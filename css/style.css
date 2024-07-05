@@ -1,0 +1,21 @@
+.odd{
+    height: 15px;
+    width: 40px;
+    background-color: white;
+}
+.even{
+    height: 15px;
+    width: 40px;
+    background-color: black;
+}
+.sqr{
+    width: 102px;
+    box-sizing: border-box;
+    border: 1px solid black; 
+    
+}
+.row{
+    
+    width: 100px;
+    display: flex;
+}
